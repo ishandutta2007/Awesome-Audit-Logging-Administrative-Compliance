@@ -53,9 +53,9 @@ The table below benchmarks commercial SaaS solutions delivering audit trails, ad
 
 ## 🔓 Open-Source Audit Logging & SIEM Alternatives
 
-Open-source systems provide transparent, auditable control over telemetry pipelines without vendor lock-in. The table below is sorted in **descending order by GitHub star count**, with live social star badges linking directly to each repository's stargazers.
+Open-source systems provide transparent, auditable control over telemetry pipelines without vendor lock-in. The table below is sorted in **descending order by GitHub Stars_Count**, with live social Stars_Badges linking directly to each repository's stargazers.
 
-| 📦 Repository & Stars | 🏷️ Focus Area | 💡 Description | ⚙️ Deployment & Infrastructure Considerations |
+| 📦 Repository & GitHub_Stars | 🏷️ Focus Area | 💡 Description | ⚙️ Deployment & Infrastructure Considerations |
 |---|---|---|---|
 | **[osquery](https://github.com/osquery/osquery)** <br/> [![osquery Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) | Endpoint Auditing & SQL Instrumentation | Exposes an entire operating system as a high-performance relational database, enabling SQL queries for user logins, process auditing, file integrity monitoring (FIM), and security forensics. | Self-hosted C++ daemon running across Linux, macOS, and Windows. Highly performant; zero licensing fees. |
 | **[Wazuh](https://github.com/wazuh/wazuh)** <br/> [![Wazuh Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) | Open-Source XDR & SIEM | Full-featured open-source security monitoring solution providing log analysis, file integrity monitoring, vulnerability detection, and regulatory compliance mapping (PCI DSS, GDPR, HIPAA, NIST). | Self-hosted distributed cluster (manager, indexer, dashboard) or managed cloud. Integrates directly with OpenSearch. |
